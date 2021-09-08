@@ -15,7 +15,8 @@
 
 💻 **Languages and Tools:** 🛠️<br>
 
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=000000&labelColor=ffffff)
+![Manjaro](https://img.shields.io/badge/-Manjaro-000000?style=flat&logo=Manjaro&logoColor=35bf5c)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -30,10 +31,18 @@
 ![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=apache&labelColor=ffffff&logoColor=ce2127)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
+![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=Yarn&labelColor=ffffff)
+![Composer](https://img.shields.io/badge/-Composer-000000?style=flat&logo=Composer&labelColor=ffffff&logoColor=000000)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
+![Prettier](https://img.shields.io/badge/-Prettier-000000?style=flat&logo=Prettier&labelColor=4B32C3)
+
+
+
+
+
 
 <!---
 rdanang-dev/rdanang-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
