@@ -1,8 +1,12 @@
-## 👋 Hi There!, I’m Ridho Danang
-- 👀 I’m interested in Building Stuff from Scratch for the Internet
-- 🌱 I’m currently focused to Improve My Self More on FrontEnd and Backend Framework for Building Website from Scratch<br/>
-&ensp;&ensp;&nbsp;such as Vue, React, Express and Laravel
-<!-- - 📫 How to reach me  -->
+# Hi There!, I’m Ridho Danang <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+Basicly I love to build stuff from scratch for the internet
+
+:mailbox: Reach me out!
+
+[![Instagram Badge](https://img.shields.io/badge/-@ikan__gondrong-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ikan_gondrong)
+[![Facebook Badge](https://img.shields.io/badge/-rdanang-139ef8?style=flat&labelColor=139ef8&logo=facebook&logoColor=white)](https://www.facebook.com/ridho.iyoy)
+[![Mail Badge](https://img.shields.io/badge/-rdanang.dev@gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rdanang.dev@gmail.com)
 
 
 <!-- format penulisan badges -->
@@ -41,7 +45,8 @@
 
 
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!---
