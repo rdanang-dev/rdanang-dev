@@ -46,6 +46,9 @@ Basicly I love to build stuff from scratch for the internet
 
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
