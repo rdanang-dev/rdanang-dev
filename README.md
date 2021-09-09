@@ -9,8 +9,6 @@ Basicly I love to build stuff from scratch for the internet
 [![Mail Badge](https://img.shields.io/badge/-rdanang.dev@gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rdanang.dev@gmail.com)
 
 
-<!-- format penulisan badges -->
-<!-- [![alt-text](image-url)(url-to-point) -->
 ### Common Tech
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-ff2d20?style=for-the-badge&labelColor=black&logo=Laravel&logoColor=ff2d20)](https://laravel.com/)
 [![Vue Badge](https://img.shields.io/badge/-VueJS-41b883?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=41b883)](https://v3.vuejs.org/) [![Tailwind Badge](https://img.shields.io/badge/-Tailwind-06b6d4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06b6d4)](https://tailwindcss.com/)
@@ -44,7 +42,7 @@ Basicly I love to build stuff from scratch for the internet
 ![Prettier](https://img.shields.io/badge/-Prettier-000000?style=flat&logo=Prettier&labelColor=4B32C3)
 
 
-
+### Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
