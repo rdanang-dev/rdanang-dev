@@ -45,7 +45,9 @@ Basicly I love to build stuff from scratch for the internet
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   3 hrs 25 mins   ████████████████████░░░░░   80.31 % 
+Markdown     37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+YAML         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 ```
 <!--END_SECTION:waka-->
 
