@@ -45,11 +45,11 @@ Basicly I love to build stuff from scratch for the internet
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 8 mins    █████████████████▒░░░░░░░   69.40 % 
-Vue.js       52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Markdown     37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-YAML         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+JavaScript   4 hrs 27 mins   ██████████████▒░░░░░░░░░░   57.92 % 
+Vue.js       2 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+Markdown     37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+YAML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 <!--END_SECTION:waka-->
 
