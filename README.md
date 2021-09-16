@@ -1,5 +1,5 @@
 <div align='center'><h3><samp><strong>Hi there, I'm Ridho Danang </strong></samp> <img src="assets/images/waving-hand-joypixels.gif" width="20px" alt="hi"></h3>
-<a style="" href="https://rdanang-dev.github.io/portfo/" target="_blank">🌐 Portfolio</a>
+<a href="https://rdanang-dev.github.io/portfo/" target="_blank">🌐 Portfolio</a>
 </a>
 </div>
 <br/>
