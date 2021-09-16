@@ -1,10 +1,8 @@
 <div align='center'><h3><samp><strong>Hi there, I'm Ridho Danang </strong></samp> <img src="assets/images/waving-hand-joypixels.gif" width="20px" alt="hi"></h3>
-<div style="padding: 10px 0">
-<a style="background-color: black;display:inline;padding:10px;color:cyan;" href="https://rdanang-dev.github.io/portfo/" target="_blank">🌐 Portfolio</a>
+<a style="" href="https://rdanang-dev.github.io/portfo/" target="_blank">🌐 Portfolio</a>
 </a>
 </div>
-</div>
-
+<br/>
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
