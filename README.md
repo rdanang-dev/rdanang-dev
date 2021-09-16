@@ -1,21 +1,31 @@
-# Hi There!, I’m Ridho Danang <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<div align='center'><h3><samp><strong>Hi there, I'm Ridho Danang </strong></samp> <img src="assets/images/waving-hand-joypixels.gif" width="20px" alt="hi"></h3>
+<div style="padding: 10px 0">
+<a href="https://rdanang-dev.github.io/portfo/" target="_blank">
+<h3 style="background-color: black;display:inline;padding:6px;color:cyan;margin-left: -4px;border:1px solid cyan;">🌐 Portfolio</h3>
+</a>
+</div>
+</div>
 
-Basicly I love to build stuff from scratch for the internet
+
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Contribute more to Open Source projects
+
+
 
 :mailbox: Reach me out!
 
-[![Instagram Badge](https://img.shields.io/badge/-@ikan__gondrong-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ikan_gondrong)
-[![Facebook Badge](https://img.shields.io/badge/-rdanang-139ef8?style=flat&labelColor=139ef8&logo=facebook&logoColor=white)](https://www.facebook.com/ridho.iyoy)
-[![Mail Badge](https://img.shields.io/badge/-rdanang.dev@gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rdanang.dev@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@ikan__gondrong-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ikan_gondrong)
+[![Facebook Badge](https://img.shields.io/badge/-rdanang-139ef8?style=for-the-badge&labelColor=139ef8&logo=facebook&logoColor=white)](https://www.facebook.com/ridho.iyoy)
+[![Mail Badge](https://img.shields.io/badge/-rdanang.dev@gmail.com-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rdanang.dev@gmail.com)
 
 
-### Common Tech
+#### Common Tech
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-ff2d20?style=for-the-badge&labelColor=black&logo=Laravel&logoColor=ff2d20)](https://laravel.com/)
 [![Vue Badge](https://img.shields.io/badge/-VueJS-41b883?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=41b883)](https://v3.vuejs.org/) [![Tailwind Badge](https://img.shields.io/badge/-Tailwind-06b6d4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06b6d4)](https://tailwindcss.com/)
 
 
 
-💻 **Languages and Tools:** 🛠️<br>
+#### 💻 Languages and Tools: 🛠️<br>
 
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=000000&labelColor=ffffff)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-000000?style=flat&logo=Manjaro&logoColor=35bf5c)
@@ -44,9 +54,6 @@ Basicly I love to build stuff from scratch for the internet
 
 ### Coding Stats
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 
