@@ -1,7 +1,6 @@
 <div align='center'><h3><samp><strong>Hi there, I'm Ridho Danang </strong></samp> <img src="assets/images/waving-hand-joypixels.gif" width="20px" alt="hi"></h3>
 <div style="padding: 10px 0">
-<a href="https://rdanang-dev.github.io/portfo/" target="_blank">
-<h3 style="background-color: black;display:inline;padding:6px;color:cyan;margin-left: -4px;border:1px solid cyan;">🌐 Portfolio</h3>
+<a style="background-color: black;display:inline;padding:6px;color:cyan;margin-left: -4px;border:1px solid cyan;" href="https://rdanang-dev.github.io/portfo/" target="_blank">🌐 Portfolio</a>
 </a>
 </div>
 </div>
