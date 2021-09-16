@@ -54,6 +54,16 @@
 
 ### Coding Stats
 <!--START_SECTION:waka-->
+<<<<<<< HEAD
+=======
+```text
+Vue.js       18 hrs 3 mins   █████████████████░░░░░░░░   68.55 % 
+JavaScript   6 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+CSS          48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Markdown     37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+YAML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+```
+>>>>>>> 7290b5f606bdb7b4d40558c61acba0e02fa342c4
 <!--END_SECTION:waka-->
 
 
