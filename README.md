@@ -3,7 +3,7 @@
 </a></p>
 
 
-🌱 I’m currently learning everything 🤣
+🌱 I’m currently learning everything 🤣<br/>
 🥅 2021 Goals: Contribute more to Open Source projects
 
 
