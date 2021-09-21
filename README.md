@@ -3,8 +3,8 @@
 </a></p>
 
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+🌱 I’m currently learning everything 🤣
+🥅 2021 Goals: Contribute more to Open Source projects
 
 
 
