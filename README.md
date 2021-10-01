@@ -51,8 +51,7 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-PHP      10 mins         ██████████████████▒░░░░░░   72.88 % 
-Vue.js   3 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.12 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
