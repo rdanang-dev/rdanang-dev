@@ -51,7 +51,8 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSON         22 mins         ██████████████░░░░░░░░░░░   56.24 % 
+Vue.js       17 mins         ██████████▓░░░░░░░░░░░░░░   42.71 % 
 ```
 <!--END_SECTION:waka-->
 
