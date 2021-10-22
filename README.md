@@ -51,8 +51,7 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 mins          ████████████████▓░░░░░░░░   66.47 % 
-PHP          1 min           ████████▒░░░░░░░░░░░░░░░░   33.53 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
