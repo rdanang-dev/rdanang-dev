@@ -58,11 +58,8 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-TypeScript   8 hrs 11 mins   ███████████████████████░░   91.50 % 
-JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-JavaScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+TypeScript   7 hrs 22 mins   ████████████████████████▒   97.14 % 
+JavaScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 ```
 <!--END_SECTION:waka-->
 
