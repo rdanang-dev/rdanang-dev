@@ -58,11 +58,13 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-TypeScript   32 hrs 56 mins  ██████████████████████▓░░   90.23 % 
-PHP          1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Vue.js       1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Bash         40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Total: 38 hrs 12 mins
+
+TypeScript   34 hrs 58 mins  ███████████████████████░░   91.53 % 
+PHP          1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Vue.js       1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Bash         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
 
