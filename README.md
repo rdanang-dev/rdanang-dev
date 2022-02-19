@@ -58,8 +58,6 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Total: 46 hrs 39 mins
-
 TypeScript   45 hrs 59 mins  ████████████████████████▓   98.19 % 
 Bash         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 JSON         16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
