@@ -59,9 +59,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   28 hrs 2 mins   ████████████████████████▓   99.08 %
-Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
