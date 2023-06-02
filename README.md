@@ -58,7 +58,7 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript   24 hrs 7 mins   █████████████████████▒░░░   85.06 %
 Other        1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
 CSV          1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
