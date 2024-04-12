@@ -59,11 +59,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              5 hrs 2 mins    ███████████████████████▓░   94.14 %
-textmate         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Bash             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Makefile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
