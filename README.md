@@ -59,11 +59,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Gradle            1 hr 29 mins    ████████████▒░░░░░░░░░░░░   49.28 %
-Groovy            40 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
-Kotlin            28 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-Properties        14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-Java Properties   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
