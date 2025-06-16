@@ -16,8 +16,11 @@
 
 
 #### Common Tech
+[![Spring Badge](https://img.shields.io/badge/-SpringBoot-41b883?style=for-the-badge&labelColor=black&logo=Spring&logoColor=41b883)](https://laravel.com/)
+[![Go Badge](https://img.shields.io/badge/-Golang-06b6d4?style=for-the-badge&labelColor=black&logo=Go&logoColor=06b6d4)](https://laravel.com/)
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-ff2d20?style=for-the-badge&labelColor=black&logo=Laravel&logoColor=ff2d20)](https://laravel.com/)
-[![Vue Badge](https://img.shields.io/badge/-VueJS-41b883?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=41b883)](https://v3.vuejs.org/) [![Tailwind Badge](https://img.shields.io/badge/-Tailwind-06b6d4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06b6d4)](https://tailwindcss.com/)
+ [![Typescript Badge](https://img.shields.io/badge/-Typescript(NestJs)-06b6d4?style=for-the-badge&labelColor=black&logo=typescript&logoColor=06b6d4)](https://tailwindcss.com/)
+[![Vue Badge](https://img.shields.io/badge/-VueJS-41b883?style=for-the-badge&labelColor=black&logo=Vue.js&logoColor=41b883)](https://v3.vuejs.org/) [![React Badge](https://img.shields.io/badge/-ReactJs-06b6d4?style=for-the-badge&labelColor=black&logo=react&logoColor=06b6d4)](https://tailwindcss.com/)
 
 
 
