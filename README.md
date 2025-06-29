@@ -62,11 +62,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              27 hrs 15 mins  ████████████████▓░░░░░░░░   67.33 %
-SQL               4 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-HTML              3 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-Java Properties   2 hrs 26 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Properties        1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Java              26 hrs 29 mins  █████████████████▒░░░░░░░   68.70 %
+SQL               4 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+Java Properties   2 hrs 26 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+HTML              2 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Properties        1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 ```
 
 <!--END_SECTION:waka-->
