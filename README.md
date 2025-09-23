@@ -62,10 +62,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           51 mins         █████████████░░░░░░░░░░░░   51.66 %
-Bash         31 mins         ███████▓░░░░░░░░░░░░░░░░░   31.16 %
-Docker       17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
