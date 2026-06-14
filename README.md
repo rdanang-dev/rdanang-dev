@@ -62,7 +62,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML              36 mins               █████████▒░░░░░░░░░░░░░░░   37.70 %
+Dart              31 mins               ████████▒░░░░░░░░░░░░░░░░   32.77 %
+Java Properties   9 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+Other             7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Kotlin            7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
 ```
 
 <!--END_SECTION:waka-->
