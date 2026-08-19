@@ -62,7 +62,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON         2 hrs 29 mins         ███████▒░░░░░░░░░░░░░░░░░   28.84 %
+Other        1 hr 43 mins          █████░░░░░░░░░░░░░░░░░░░░   19.89 %
+Bash         1 hr 33 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
+Go           39 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+Text         36 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
 ```
 
 <!--END_SECTION:waka-->
